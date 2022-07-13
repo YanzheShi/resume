@@ -1,0 +1,7 @@
+# 京东
+
+## 京东商智
+
+项目技术架构。 ssm（spring spring mvc mybatis）Nginx，jfs（京东的rpc框架，杰夫），
+
+## 数据罗盘
